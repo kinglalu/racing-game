@@ -296,14 +296,10 @@ body.leaderboard-page h1 {
 @font-face {
   font-family: 'Press Start 2p';
 }
-body {
-  background-color: black;
-  font-size: 30pt;
-  font-family: 'Press Start 2p';
-}
+
 .video-game-button {
 	text-shadow: 1px 1px pink, -1px -1px maroon;
-
+	font-family: 'Press Start 2p';
 	line-height: 1.5em;
 	text-align: center;
 	display: inline-block;
@@ -331,6 +327,7 @@ body {
     text-align: center;
 	display: inline-block;
 	margin:5px;
+	font-family: 'Press Start 2p';
     font-weight: bold;
     padding: 10px 0 10px 10px ;
     background-color: lightgray;
