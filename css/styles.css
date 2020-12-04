@@ -296,7 +296,6 @@ body.leaderboard-page h1 {
 @font-face {
   font-family: 'Press Start 2p';
 }
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 .video-game-button {
 	text-shadow: 1px 1px pink, -1px -1px maroon;
 	font-family: 'Press Start 2P';
